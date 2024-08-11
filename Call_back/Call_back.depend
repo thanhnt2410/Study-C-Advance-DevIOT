@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723223969 source:e:\study\c_advance\call_back\lib.c
+	<stdio.h>
+	"lib.h"
+
+1723223897 e:\study\c_advance\call_back\lib.h
+

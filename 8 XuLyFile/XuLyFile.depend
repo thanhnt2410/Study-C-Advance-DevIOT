@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723301531 source:e:\study\c_advance\xulyfile\main.c
+	<stdio.h>
+	<stdint.h>
+
+1723302691 source:e:\study\c_advance\xulyfile\sinhvien.c
+	<stdio.h>
+	<stdint.h>
+
