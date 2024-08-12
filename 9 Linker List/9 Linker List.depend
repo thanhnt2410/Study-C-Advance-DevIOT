@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723461649 source:e:\study\c_advance\9 linker list\list.c
+	<stdio.h>
+	"list.h"
+
+1723461649 e:\study\c_advance\9 linker list\list.h
+	<stdbool.h>
+
+1723461679 source:e:\study\c_advance\9 linker list\main.c
+	<stdio.h>
+	<stdint.h>
+	"list.h"
+
