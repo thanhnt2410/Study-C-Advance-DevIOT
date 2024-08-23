@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724341132 source:e:\study\c_advance\variadic function\main.c
+	<stdio.h>
+	<stdarg.h>
+
